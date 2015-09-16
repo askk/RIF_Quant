@@ -1,0 +1,791 @@
+﻿Announce.  Fed Funds  Direction  Amount of  Discount       Policy       FOMC
+Date        Target                Change     Rate (*)      Concern      Vote
+
+07/29/15   0-0.25%        None       None     0.75%       Risk to Growth 10-0
+           Economic activity expanding moderately, inflation expectations stable
+06/17/15   0-0.25%        None       None     0.75%       Risk to Growth 10-0
+           Economic activity expanding moderately, inflation expectations stable
+04/29/15   0-0.25%        None       None     0.75%       Risk to Growth 10-0
+           Economic growth slowed, inflation expectations stable
+03/18/15   0-0.25%        None       None     0.75%       Risk to Growth 10-0
+           Economic activity moderated, inflation expectations stable
+01/28/15   0-0.25%        None       None     0.75%       Risk to Growth 10-0
+           Economic activity expanding at solid pace, infl expect. stable
+12/17/14   0-0.25%        None       None     0.75%       Risk to Growth  7-3
+           Economic activity expanding moderately, inflation expect stable
+10/29/14   0-0.25%        None       None     0.75%       Risk to Growth  9-1
+           Economic activity expanding moderately, infl expectations stable
+09/17/14   0-0.25%        None       None     0.75%       Risk to Growth  8-2
+           Economic activity expanding moderately, inflation expectations stable
+07/30/14   0-0.25%        None       None     0.75%       Risk to Growth  9-1
+           Economic activity has rebounded, inflation expectations stable
+06/18/14   0-0.25%        None       None     0.75%       Risk to Growth 10-0
+           Economic activity has rebounded, inflation expectations stable
+04/30/14   0-0.25%        None       None     0.75%       Risk to Growth  9-0
+           Economic activity has picked up, inflation expectations stable
+03/19/14   0-0.25%        None       None     0.75%       Risk to Growth  8-1
+           Economic activity slowed, long-term inflation stable
+            -Yellen assumes chairman’s position on Feb. 3, 2014-         
+01/29/14   0-.25%         None       None     0.75%       Risk to Growth 10-0
+           Economic activity picked up, long-term inflation stable
+12/18/13   0-.25%         None       None     0.75%       Risk to Growth  9-1
+           Economy expanded at moderate pace, long-term inflation stable
+10/30/13   0-.25%         None       None     0.75%       Risk to Growth  9-1
+           Economy expanded at moderate pace, long-term inflation stable
+09/18/13   0-.25%         None       None     0.75%       Risk to Growth  9-1
+           Economy expanding at moderate pace, long-term inflation stable
+07/31/13   0-.25%         None       None     0.75%       Risk to Growth 11-1
+           Economy expanding at modest pace, long-term inflation stable
+06/19/13   0-.25%         None       None     0.75%       Risk to Growth 10-2
+           Economy expanding at moderate pace, long-term inflation stable
+05/01/13   0-.25%         None       None     0.75%       Risk to Growth 11-1
+           Economy expanding at moderate growth. Inflation expectations stable
+03/20/13   0-.25%         None       None     0.75%       Risk to Growth 11-1
+           Economy return to moderate growth. Inflation expectations stable
+01/30/13   0-.25%         None       None     0.75%       Risk to Growth 11-1
+           Economic growth paused, inflation below target
+12/12/12   0-.25%         None       None     0.75%       Risk to Growth 11-1
+           Economic expansion moderate, inflation slower
+10/24/12   0-.25%         None       None     0.75%       Risk to Growth 11-1
+           Economic expansion moderate, inflation picks up
+09/13/12   0-.25%         None       None     0.75%       Risk to Growth 11-1
+           Economic activity moderate, inflation subdued
+08/01/12   0-.25%         None       None     0.75%       Risk to Growth 11-1
+           Economic activity decelerated, inflation declined
+06/20/12   0-.25%         None       None     0.75%       Risk to Growth 11-1
+           Employment growth has slowed, inflation declined
+04/25/12   0-.25%         None       None     0.75%       Risk to Growth  9-1
+           Expect moderate economic growth, infl. picking up
+03/13/12   0-.25%         None       None     0.75%       Risk to Growth  9-1
+           Expect moderate economic growth, infl. stable
+01/25/12   0-.25%         None       None     0.75%       Risk to Growth  9-1
+           Economic growth to be modest, inflation stable
+12/13/11   0-.25%         None       None     0.75%       Risk to Growth  9-1
+           Economic growth remains slow, inflation stable
+11/02/11   0-.25%         None       None     0.75%       Risk to Growth  9-1
+           Economic growth remains slow, inflation stable
+09/21/11   0-.25%         None       None     0.75%       Risk to Growth  7-3
+           Economic growth remains slow, inflation moderated
+08/09/11   0-.25%         None       None     0.75%       Risk to Growth  7-3
+           Economic recovery slower than expected, inflation picked-up
+06/22/11   0-.25%         None       None     0.75%       Risk to Growth 10-0
+           Economic recovery slower than expected, inflation picked-up
+04/27/11   0-.25%         None       None     0.75%       Risk to Growth 10-0
+           Economic recovery at moderate pace, inflation stable
+03/15/11   0-.25%         None       None     0.75%       Risk to Growth 10-0
+           Economic recovery continuing, inflation stable
+01/26/11   0-.25%         None       None     0.75%       Risk to Growth 11-0
+           Economic recovery continuing, inflation stable
+12/14/10   0-.25%         None       None     0.75%       Risk to Growth 10-1
+           Econ. recovery continuing, inflation stable; Hoenig voted against
+11/03/10   0-.25%         None       None     0.75%       Risk to Growth 10-1
+           Econ. recovery slow, infl. trended lower; Hoenig voted against
+09/21/10   0-.25%         None       None     0.75%       Risk to Growth  8-1
+           Economic recovery modest, inflation subdued; Hoenig voted against
+08/10/10   0-.25%         None       None     0.75%       Risk to Growth  9-1
+           Economic recovery modest, inflation subdued; Hoenig voted against
+06/23/10   0-.25%         None       None     0.75%       Risk to Growth  9-1
+           Economic recovery is proceeding; voting against was Hoenig
+04/28/10   0-.25%         None       None     0.75%       Risk to Growth  9-1
+           Eco. activity continued to strengthen; voting against was Hoenig
+03/16/10   0-.25%         None       None     0.75%       Risk to Growth  9-1
+           Eco. activity continued to strengthen; voting against was Hoenig
+02/18/10   Fed raised discount rate to 0.75%, effective Feb. 19, 2010.
+01/27/10   0-.25%         None       None     0.50%       Risk to Growth  9-1
+           Eco. activity continued to strengthen; voting against was Hoenig
+12/16/09   0-.25%         None       None     0.50%       Risk to Growth 10-0
+           Eco. activity continues to pick up; inflation to remain subdued
+11/04/09    0-.25%        None       None     0.50%       Risk to Growth 10-0
+           Economic activity has picked up, inflation will remain subdued
+09/23/09    0-.25%        None       None     0.50%       Risk to Growth 10-0
+           Economic activity has picked up but to stay weak for a time
+08/12/09    0-.25%        None       None     0.50%       Risk to Growth 10-0
+           Economic activity likely to remain weak for a time
+06/24/09    0-.25%        None       None     0.50%       Risk to Growth 10-0
+           Economic contraction slowing, inflation will remain subdued 
+04/29/09    0-.25%        None       None     0.50%       Risk to Growth 10-0
+           Economy continued to contract, inflation will remain subdued.
+03/18/09    0-.25%        None       None     0.50%       Risk to Growth 10-0
+           Near term economic outlook is weak, inflation will remain subdued
+01/28/09    0-.25%        None       None     0.50%       Risk to Growth  8-1
+           Economy weakened further. Voting against was Jeffrey Lacker.
+12/16/08    0-.25%      Easing-1 to -.75%     0.50%       Risk to Growth 10-0
+           Outlook has weakened further. Changed rate to range of 0 to 0.25%
+10/29/08     1.00%      Easing     -0.50%     1.25%       Risk to Growth 10-0
+           Downside risks to growth.
+10/08/08     1.50%  -Fed cuts the rate to 1.50% in an unscheduled meeting-
+
+09/16/08     2.00%        None      0.00%     2.25%Inflation/Growth Risk 10-0
+           Downside risks to growth; upside risk to inflation
+08/05/08     2.00%        None      0.00%     2.25%Inflation/Growth Risk 10-1
+           Downside risks to growth; upside risk to inflation
+06/25/08     2.00%        None      0.00%     2.25%       Inflation Risk  9-1
+           Diminished downside growth risk; upside risk to inflation
+04/30/08     2.00%      Easing     -0.25%     2.25%   Assessment Omitted  8-2
+           Economic activity remains weak, inflation uncertainty remains high
+03/18/08     2.25%      Easing     -0.75%     2.50% Downside Growth Risk  8-2
+           Economic activity has weaken further, Inflation has been elevated.
+03/16/08     -Fed cuts the discount rate to 3.25% in an unscheduled meeting-
+              and extends discount window loan terms to 90 days from 30 days.
+01/30/08     3.00%      Easing     -0.50%     3.50%      Downside Growth  9-1
+           Inflation expected to moderate in coming quarters.
+01/22/08     3.50%      Easing     -0.75%     4.00%        Inter-meeting  8-1
+
+12/11/07     4.25%      Easing     -0.25%     4.75%   Assessment Omitted  9-1
+           Growth moderate over time, inflation risks remain.
+10/31/07     4.50%      Easing     -0.25%     5.00%             Balanced  9-1
+           Growth will likely slow, inflation risks remain.
+09/18/07     4.75%      Easing     -0.50%     5.25%   Assessment Omitted 10-0
+           Potentially restrained growth, inflation risks remain.
+08/17/07     -Fed cuts the discount rate to 5.75% in an unscheduled meeting-
+             -and changes economic assessment to downside risks to growth-
+08/07/07     5.25%        None       None     6.25%       Inflation risk 10-0
+           Growth likely moderate, no moderation in inflation pressures.
+06/28/07     5.25%        None       None     6.25%       Inflation risk 10-0
+           Growth likely moderate, no moderation in inflation pressures.
+05/09/07     5.25%        None       None     6.25%       Inflation risk 10-0
+           Growth likely moderate, inflation likely to moderate.
+03/21/07     5.25%        None       None     6.25%       Inflation risk 10-0
+           Growth likely moderate, inflation likely to moderate.
+01/31/07     5.25%        None       None     6.25%       Inflation risk 11-0
+           Growth likely moderate, inflation likely to moderate.
+12/12/06     5.25%        None       None     6.25%       Inflation risk 10-1
+10/25/06     5.25%        None       None     6.25%       Inflation risk 10-1
+09/20/06     5.25%        None       None     6.25%       Inflation risk 10-1
+08/08/06     5.25%        None       None     6.25%       Inflation risk  9-1
+06/29/06     5.25%  Tightening      0.25%     6.25%       Inflation risk 10-0
+05/10/06     5.00%  Tightening      0.25%     6.00%       Inflation risk 11-0
+03/28/06     4.75%  Tightening      0.25%     5.75%             Balanced 11-0
+            -Bernanke assumes chairman’s position on Feb. 1, 2006-         
+01/31/06     4.50%  Tightening      0.25%     5.50%             Balanced 10-0
+12/13/05     4.25%  Tightening      0.25%     5.25%             Balanced 10-0
+11/01/05     4.00%  Tightening      0.25%     5.00%             Balanced 10-0
+09/20/05     3.75%  Tightening      0.25%     4.75%             Balanced  9-1
+08/09/05     3.50%  Tightening      0.25%     4.50%             Balanced 10-0
+06/30/05     3.25%  Tightening      0.25%     4.25%             Balanced 11-0
+05/03/05     3.00%  Tightening      0.25%     4.00%             Balanced 11-0
+03/22/05     2.75%  Tightening      0.25%     3.75%             Balanced 12-0
+02/02/05     2.50%  Tightening      0.25%     3.50%             Balanced 12-0
+12/14/04     2.25%  Tightening      0.25%     3.25%             Balanced 12-0
+11/10/04     2.00%  Tightening      0.25%     3.00%             Balanced 12-0
+09/21/04     1.75%  Tightening      0.25%     2.75%             Balanced 12-0
+08/10/04     1.50%  Tightening      0.25%     2.50%             Balanced 12-0
+06/30/04     1.25%  Tightening      0.25%     2.25%             Balanced 12-0
+05/04/04     1.00%        None       None     2.00%             Balanced 12-0
+03/16/04     1.00%        None       None     2.00%             Balanced 12-0
+01/28/04     1.00%        None       None     2.00%             Balanced 12-0
+12/09/03     1.00%        None       None     2.00%             Balanced 12-0
+10/28/03     1.00%        None       None     2.00%          Balanced w/ 12-0
+09/16/03     1.00%        None       None     2.00%          Balanced w/ 12-0
+08/12/03     1.00%        None       None     2.00%          Balanced w/ 12-0
+06/25/03     1.00%      Easing     -0.25%     2.00%          Balanced w/ 11-1
+05/06/03     1.25%        None       None     2.25%          Balanced w/ 12-0
+03/18/03     1.25%        None       None     2.25%                 None 12-0
+01/29/03     1.25%        None       None     2.25%             Balanced 12-0
+        -(*)Primary Credit Rate Replaces Discount Rate Jan. 9, 2003-         
+12/10/02     1.25%        None       None     0.75%             Balanced 12-0
+11/06/02     1.25%      Easing     -0.50%     0.75%             Balanced 12-0
+09/24/02     1.75%        None       None     1.25%             Weakness 10-2
+08/13/02     1.75%        None       None     1.25%             Weakness 12-0
+06/26/02     1.75%        None       None     1.25%             Balanced 10-0
+05/07/02     1.75%        None       None     1.25%             Balanced 10-0
+03/19/02     1.75%        None       None     1.25%             Balanced 10-0
+01/30/02     1.75%        None       None     1.25%             Weakness 10-0
+12/11/01     1.75%      Easing     -0.25%     1.25%             Weakness 10-1
+11/06/01     2.00%      Easing     -0.50%     1.50%             Weakness 10-0
+10/02/01     2.50%      Easing     -0.50%     2.00%             Weakness 10-0
+09/17/01     3.00%      Easing     -0.50%     2.50%        Inter-meeting 10-0
+08/21/01     3.50%      Easing     -0.25%     3.00%             Weakness  8-0
+06/27/01     3.75%      Easing     -0.25%     3.25%             Weakness  9-1
+05/15/01     4.00%      Easing     -0.50%     3.50%             Weakness  9-1
+04/18/01     4.50%      Easing     -0.50%     4.00%        Inter-meeting 10-0
+03/20/01     5.00%      Easing     -0.50%     4.50%             Weakness 10-0
+01/31/01     5.50%      Easing     -0.50%     5.00%             Weakness 10-0
+01/03/01     6.00%      Easing     -0.50%     5.50%        Inter-meeting 10-0
+12/19/00     6.50%        None       None     6.00%             Weakness 10-0
+11/15/00     6.50%        None       None     6.00%            Inflation 10-0
+10/03/00     6.50%        None       None     6.00%            Inflation 10-0
+08/22/00     6.50%        None       None     6.00%            Inflation 10-0
+06/28/00     6.50%        None       None     6.00%            Inflation 10-0
+05/16/00     6.50%  Tightening      0.50%     6.00%            Inflation 10-0
+03/21/00     6.00%  Tightening      0.25%     5.50%            Inflation 10-0
+02/02/00     5.75%  Tightening      0.25%     5.25%            Inflation 10-0
+12/21/99     5.50%        None       None     5.00%              Neutral 10-0
+11/16/99     5.50%  Tightening      0.25%     5.00%              Neutral 10-0
+10/05/99     5.25%        None       None     4.75%           Tightening 10-0
+08/24/99     5.25%  Tightening      0.25%     4.75%              Neutral  9-1
+06/30/99     5.00%  Tightening      0.25%     4.50%              Neutral  9-1
+05/18/99     4.75%        None       None     4.50%           Tightening 11-0
+03/30/99     4.75%        None       None     4.50%              Neutral 11-0
+02/03/99     4.75%        None       None     4.50%              Neutral 11-0
+12/22/98     4.75%        None       None     4.50%              Neutral 11-0
+11/17/98     4.75%      Easing     -0.25%     4.50%              Neutral 10-1
+10/15/98     5.00%      Easing     -0.25%     4.75%        Inter-meeting  n/a
+09/29/98     5.25%      Easing     -0.25%     5.00%               Easing 11-0
+08/18/98     5.50%        None       None     5.00%              Neutral 10-1
+07/01/98     5.50%        None       None     5.00%           Tightening 10-1
+05/19/98     5.50%        None       None     5.00%           Tightening 10-2
+03/31/98     5.50%        None       None     5.00%           Tightening 11-1
+02/04/98     5.50%        None       None     5.00%              Neutral 12-0
+12/16/97     5.50%        None       None     5.00%              Neutral 11-1
+11/12/97     5.50%        None       None     5.00%           Tightening 11-1
+09/30/97     5.50%        None       None     5.00%           Tightening 10-0
+08/19/97     5.50%        None       None     5.00%           Tightening 10-0
+07/02/97     5.50%        None       None     5.00%           Tightening 10-0
+05/20/97     5.50%        None       None     5.00%           Tightening  9-1
+03/25/97     5.50%  Tightening      0.25%     5.00%              Neutral 10-0
+02/05/97     5.25%        None       None     5.00%           Tightening 10-0
+12/17/96     5.25%        None       None     5.00%           Tightening 12-0
+11/13/96     5.25%        None       None     5.00%           Tightening 12-0
+09/24/96     5.25%        None       None     5.00%           Tightening 11-1
+08/20/96     5.25%        None       None     5.00%           Tightening 11-1
+07/03/96     5.25%        None       None     5.00%           Tightening 11-1
+05/21/96     5.25%        None       None     5.00%              Neutral 10-0
+03/26/96     5.25%        None       None     5.00%              Neutral 10-0
+01/31/96     5.25%      Easing     -0.25%     5.00%               Easing 10-0
+12/19/95     5.50%      Easing     -0.25%     5.25%              Neutral 11-0
+11/15/95     5.75%        None       None     5.25%              Neutral 10-1
+09/26/95     5.75%        None       None     5.25%              Neutral 11-0
+08/22/95     5.75%        None       None     5.25%              Neutral 11-0
+07/06/95     5.75%      Easing     -0.25%     5.25%               Easing 10-1
+05/23/95     6.00%        None       None     5.25%              Neutral 11-0
+03/28/95     6.00%        None       None     5.25%           Tightening 11-0
+02/01/95     6.00%  Tightening      0.50%     5.25%              Neutral 12-0
+12/20/94     5.50%        None       None     4.75%           Tightening 11-1
+11/15/94     5.50%  Tightening      0.75%     4.75%              Neutral 12-0
+09/27/94     4.75%        None       None     4.00%           Tightening 11-1
+08/16/94     4.75%  Tightening      0.50%     4.00%              Neutral 12-0
+07/06/94     4.25%        None       None     3.50%           Tightening 9-2*
+05/17/94     4.25%  Tightening      0.50%     3.50%              Neutral 10-0
+04/18/94     3.75%  Tightening      0.25%     3.00%        Inter-meeting  n/a
+03/22/94     3.50%  Tightening      0.25%     3.00%              Neutral  8-2
+02/04/94     3.25%  Tightening      0.25%     3.00%              Neutral 10-0
+12/21/93     3.00%        None       None     3.00%              Neutral 10-2
+11/16/93     3.00%        None       None     3.00%              Neutral 12-0
+09/23/93     3.00%        None       None     3.00%              Neutral 12-0
+08/17/93     3.00%        None       None     3.00%              Neutral 12-0
+07/07/93     3.00%        None       None     3.00%           Tightening 11-1
+05/18/93     3.00%        None       None     3.00%           Tightening 10-2
+03/23/93     3.00%        None       None     3.00%              Neutral 10-2
+02/03/93     3.00%        None       None     3.00%              Neutral 12-0
+12/22/92     3.00%        None       None     3.00%              Neutral 12-0
+11/17/92     3.00%        None       None     3.00%               Easing  9-3
+10/06/92     3.00%        None       None     3.00%               Easing  8-4
+09/04/92     3.00%      Easing     -0.25%     3.00%        Inter-meeting  n/a
+08/18/92     3.25%        None       None     3.00%               Easing 10-2
+07/02/92     3.25%      Easing     -0.50%     3.00%               Easing 10-2
+05/19/92     3.75%        None       None     3.50%              Neutral 12-0
+04/09/92     3.75%      Easing     -0.25%     3.50%        Inter-meeting  n/a
+03/31/92     4.00%        None       None     3.50%               Easing 12-0
+02/05/92     4.00%        None       None     3.50%               Easing 12-0
+12/20/91     4.00%      Easing     -0.50%     3.50%               Easing 11-1
+12/06/91     4.50%      Easing     -0.25%     4.50%        Inter-meeting  n/a
+11/06/91     4.75%      Easing     -0.25%     4.50%               Easing  8-2
+10/31/91     5.00%      Easing     -0.25%     5.00%        Inter-meeting  n/a
+10/01/91     5.25%        None       None     5.00%               Easing 10-0
+09/13/91     5.25%      Easing     -0.25%     5.00%        Inter-meeting  n/a
+08/20/91     5.50%        None       None     5.50%               Easing 10-0
+08/06/91     5.50%      Easing     -0.25%     5.50%        Inter-meeting  n/a
+07/03/91     5.75%        None       None     5.50%              Neutral 10-0
+05/14/91     5.75%        None       None     5.50%              Neutral 10-0
+04/30/91     5.75%      Easing     -0.25%     5.50%        Inter-meeting  n/a
+03/26/91     6.00%        None       None     6.00%              Neutral 10-0
+03/08/91     6.00%      Easing     -0.25%     6.00%        Inter-meeting  n/a
+02/06/91     6.25%        None       None     6.00%               Easing 11-0
+02/01/91     6.25%      Easing     -0.50%     6.00%        Inter-meeting  n/a
+01/08/91     6.75%      Easing     -0.25%     6.50%        Inter-meeting  n/a
+12/18/90     7.00%      Easing     -0.25%     6.50%               Easing 10-0
+12/07/90     7.25%      Easing     -0.25%     7.00%        Inter-meeting  n/a
+11/14/90     7.50%      Easing     -0.25%     7.00%               Easing 11-0
+10/29/90     7.75%      Easing     -0.25%     7.00%        Inter-meeting  n/a
+10/02/90     8.00%        None       None     7.00%               Easing  7-4
+08/21/90     8.00%        None       None     7.00%               Easing 11-0
+07/13/90     8.00%      Easing     -0.25%     7.00%        Inter-meeting  n/a
+07/03/90     8.25%        None       None     7.00%               Easing 11-0
+05/15/90     8.25%        None       None     7.00%              Neutral 10-1
+03/27/90     8.25%        None       None     7.00%              Neutral  8-3
+02/07/90     8.25%        None       None     7.00%              Neutral  8-3
+12/19/89     8.25%      Easing     -0.25%     7.00%              Neutral  9-2
+11/14/89     8.50%        None       None     7.00%               Easing 10-1
+10/18/89     8.50%      Easing     -0.50%     7.00%        Inter-meeting  n/a
+10/03/89     9.00%        None       None     7.00%               Easing  9-2
+08/22/89     9.00%        None       None     7.00%               Easing 10-1
+07/26/89     9.00%      Easing     -0.25%     7.00%        Inter-meeting  n/a
+07/06/89     9.25%      Easing     -0.38%     7.00%              Neutral 10-1
+06/05/89     9.63%      Easing     -0.12%     7.00%        Inter-meeting  n/a
+05/16/89     9.75%        None       None     7.00%              Neutral 11-1
+03/28/89     9.75%        None       None     7.00%           Tightening 11-1
+02/24/89     9.75%  Tightening      0.12%     7.00%        Inter-meeting  n/a
+02/23/89     9.63%  Tightening      0.25%     6.50%                  n/a  n/a
+02/14/89     9.38%  Tightening      0.38%     6.50%        Inter-meeting  n/a
+02/08/89     9.00%  Tightening      0.25%     6.50%           Tightening 10-2
+12/14/88     8.75%  Tightening      0.37%     6.50%           Tightening 11-1
+11/22/88     8.38%  Tightening      0.13%     6.50%        Inter-meeting  n/a
+11/01/88     8.25%        None       None     6.50%           Tightening 11-1
+10/17/88     8.25%        None       None     6.50%        Inter-meeting  n/a
+09/20/88     8.25%        None       None     6.50%           Tightening 12-0
+08/09/88     8.25%  Tightening      0.50%     6.50%           Tightening 10-1
+08/05/88     7.75%        None       None     6.00%                  n/a  n/a
+07/19/88     7.75%  Tightening      0.25%     6.00%        Inter-meeting  n/a
+06/30/88     7.50%        None       None     6.00%           Tightening  8-3
+06/22/88     7.50%  Tightening      0.25%     6.00%        Inter-meeting  n/a
+05/25/88     7.25%  Tightening      0.25%     6.00%        Inter-meeting  n/a
+05/17/88     7.00%  Tightening      0.25%     6.00%           Tightening  9-2
+03/29/88     6.75%  Tightening      0.25%     6.00%              Neutral  n/a
+02/10/88     6.50%      Easing     -0.13%     6.00%              Neutral 11-0
+01/05/88     6.63%      Easing     -0.25%     6.00%        Inter-meeting  n/a
+12/16/87     6.88%        None       None     6.00%              Neutral  9-2
+11/04/87     6.88%      Easing     -0.37%     6.00%               Easing 11-0
+          -No target rate from 10/19 to 11/3 due to stock market crash-
+10/08/87     7.25%        None       None     6.00%        Inter-meeting  n/a
+09/22/87     7.25%        None       None     6.00%              Neutral 11-0
+09/04/87     7.25%  Tightening      0.25%     6.00%        Inter-meeting  n/a
+09/03/87     7.00%  Tightening      0.25%     5.50%        Inter-meeting  n/a
+08/18/87     6.75%        None       None     5.50%           Tightening 11-0
+            -Greenspan assumes chairman’s position on Aug. 11, 1987-         
+07/07/87     6.75%        None       None     5.50%              Neutral 11-0
+07/02/87     6.75%        None       None     5.50%        Inter-meeting  n/a
+05/19/87     6.75%  Tightening      0.25%     5.50%           Tightening  9-1
+04/29/87     6.50%  Tightening      0.50%     5.50%        Inter-meeting  n/a
+03/31/87     6.00%        None       None     5.50%           Tightening 11-0
+02/11/87     6.00%        None       None     5.50%           Tightening 10-0
+12/16/86     6.00%  Tightening      0.12%     5.50%              Neutral 10-0
+11/05/86     5.88%        None       None     5.50%              Neutral 10-0
+09/23/86     5.88%        None       None     5.50%           Tightening 11-1
+08/19/86     5.88%      Easing     -0.50%     5.50%              Neutral 10-2
+07/11/86     6.38%      Easing     -0.50%     6.00%              Neutral 10-1
+06/05/86     6.88%        None       None     6.50%        Inter-meeting  n/a
+05/20/86     6.88%  Tightening      0.13%     6.50%              Neutral 10-1
+04/21/86     6.75%      Easing     -0.50%     6.50%        Inter-meeting  n/a
+04/01/86     7.25%        None       None     7.00%              Neutral 11-0
+03/07/86     7.25%      Easing     -0.50%     7.00%                  n/a  n/a
+02/12/86     7.75%        None       None     7.50%              Neutral 10-2
+12/17/85     7.75%      Easing     -0.25%     7.50%               Easing  9-1
+11/05/85     8.00%        None       None     7.50%               Easing  9-1
+10/01/85     8.00%        None       None     7.50%              Neutral 10-1
+08/20/85     8.00%  Tightening      0.25%     7.50%              Neutral  9-2
+05/21/85     7.75%      Easing     -0.25%     7.50%               Easing 11-1
+04/16/85     8.25%      Easing     -0.25%     8.00%                  n/a  n/a
+03/29/85     8.50%      Easing     -0.50%     8.00%              Neutral 11-0
+02/13/85     9.00%  Tightening      0.75%     8.00%              Neutral  9-3
+12/24/84     8.25%      Easing     -0.50%     8.00%                  n/a  n/a
+12/18/84     8.75%      Easing     -0.25%     8.50%                  n/a 10-2
+11/22/84     9.00%      Easing     -0.50%     8.50%                  n/a  n/a
+11/07/84     9.50%      Easing     -0.50%     9.00%                  n/a 11-1
+10/02/84    10.00%      Easing     -1.75%     9.00%                  n/a  9-3
+08/21/84    11.75%  Tightening      0.75%     9.00%                  n/a 11-1
+06/30/84    11.00%  Tightening      0.50%     9.00%                  n/a  n/a
+04/09/84    10.50%        None       None     9.00%                  n/a 10-1
+03/27/84    10.50%  Tightening      1.00%     8.50%                  n/a  9-3
+8/83-10/83   9.50%      Easing     -0.13%     8.50%                  n/a  n/a
+5/83-8/83    9.63%  Tightening      1.13%     8.50%                  n/a  n/a
+12/15/82     8.50%      Easing     -0.50%     8.50%                  n/a 10-2
+11/22/82     9.00%      Easing     -0.50%     9.00%                  n/a 11-1
+10/12/82     9.50%      Easing     -0.50%     9.50%                  n/a  9-3
+09/24/82    10.00%  Tightening      0.50%    10.00%        Inter-meeting  n/a
+08/27/82     9.50%      Easing     -1.00%    10.00%                  n/a  n/a
+08/16/82    10.50%      Easing     -0.50%    10.50%                  n/a  n/a
+08/02/82    11.00%      Easing     -0.50%    11.50%                  n/a 10-1
+07/20/82    11.50%      Easing     -1.50%    12.00%                  n/a  7-1
+4/82-6/82   13.00%      Easing     -2.00%    12.00%                  n/a  n/a
+1/82-4/82   15.00%  Tightening      3.00%    12.00%                  n/a  n/a
+12/04/81    12.00%      Easing     -1.00%    12.00%                  n/a  n/a
+11/30/81    13.00%      Easing     -1.00%    13.00%                  n/a  n/a
+11/02/81    14.00%      Easing     -1.50%    13.00%                  n/a  n/a
+6/81-10/81  15.50%      Easing     -4.50%    14.00%                  n/a  n/a
+05/31/81    20.00%        None       None    14.00%                  n/a  n/a
+05/08/81    20.00%  Tightening      4.00%    14.00%                  n/a  n/a
+05/05/81    16.00%        None       None    14.00%                  n/a  n/a
+1/81-4/81   16.00%      Easing     -4.00%    13.00%                  n/a  n/a
+01/08/81    20.00%  Tightening      0.20%    13.00%                  n/a  n/a
+12/29/80    18.00%      Easing     -2.00%    13.00%                  n/a  n/a
+12/05/80    20.00%  Tightening      2.00%    13.00%                  n/a  n/a
+11/26/80    18.00%  Tightening      3.00%    12.00%                  n/a  n/a
+11/17/80    15.00%        None       None    12.00%                  n/a  n/a
+11/07/80    15.00%  Tightening      1.25%    11.00%                  n/a  n/a
+10/80-11/80 13.75%  Tightening      1.75%    11.00%                  n/a  n/a
+10/01/80    12.00%        None       None    11.00%                  n/a  n/a
+09/26/80    12.00%  Tightening      1.00%    11.00%                  n/a  n/a
+09/15/80    11.00%  Tightening      1.00%    10.00%                  n/a  n/a
+08/07/80    10.00%  Tightening      0.50%    10.00%                  n/a  n/a
+07/28/80     9.50%        None       None    10.00%                  n/a  n/a
+06/13/80     9.50%        None       None    11.00%                  n/a  n/a
+06/05/80     9.50%      Easing     -0.75%    12.00%                  n/a  n/a
+05/30/80    10.75%        None       None    12.00%                  n/a  n/a
+05/22/80    10.75%      Easing     -0.75%    13.00%                  n/a  n/a
+4/80-5/80   11.50%      Easing     -8.50%    13.00%                  n/a  n/a
+2/80-3/80   20.00%  Tightening      5.00%    13.00%                  n/a  n/a
+02/15/80    15.00%  Tightening      1.00%    13.00%                  n/a  n/a
+01/14/80    14.00%        None       None    12.00%                  n/a  n/a
+11/79-12/79 14.00%      Easing     -1.50%    12.00%                  n/a  n/a
+10/25/79    15.50%  Tightening      2.50%    12.00%                  n/a  n/a
+10/08/79    13.00%  Tightening      1.50%    12.00%                  n/a  n/a
+09/19/79    11.50%  Tightening      0.12%    11.00%                  n/a  n/a
+08/31/79    11.38%  Tightening      0.38%    10.50%                  n/a  n/a
+08/17/79    11.00%  Tightening      0.37%    10.50%                  n/a  n/a
+           -Volcker assumes chairman’s position on Aug. 6, 1979-         
+07/27/79    10.63%  Tightening      0.13%    10.00%                  n/a  n/a
+07/20/79    10.50%  Tightening      0.25%    10.00%                  n/a  n/a
+04/30/79    10.25%  Tightening      0.25%     9.50%                  n/a  n/a
+12/20/78    10.00%  Tightening      0.12%     9.50%                  n/a  n/a
+11/15/78     9.88%  Tightening      0.13%     9.50%                  n/a  n/a
+11/01/78     9.75%  Tightening      0.75%     9.50%                  n/a  n/a
+10/18/78     9.00%  Tightening      0.25%     8.50%                  n/a  n/a
+09/29/78     8.75%  Tightening      0.12%     8.00%                  n/a  n/a
+09/22/78     8.63%  Tightening      0.13%     8.00%                  n/a  n/a
+09/20/78     8.50%  Tightening      0.12%     7.75%                  n/a  n/a
+09/08/78     8.38%  Tightening      0.13%     7.75%                  n/a  n/a
+08/25/78     8.25%  Tightening      0.12%     7.75%                  n/a  n/a
+08/21/78     8.13%  Tightening      0.13%     7.75%                  n/a  n/a
+08/16/78     8.00%  Tightening      0.12%     7.25%                  n/a  n/a
+07/19/78     7.88%  Tightening      0.13%     7.25%                  n/a  n/a
+07/03/78     7.75%        None       None     7.25%                  n/a  n/a
+06/21/78     7.75%  Tightening      0.25%     7.00%                  n/a  n/a
+05/17/78     7.50%  Tightening      0.25%     7.00%                  n/a  n/a
+05/11/78     7.25%        None       None     7.00%                  n/a  n/a
+04/27/78     7.25%  Tightening      0.12%     6.50%                  n/a  n/a
+04/26/78     7.13%  Tightening      0.13%     6.50%                  n/a  n/a
+04/19/78     7.00%  Tightening      0.25%     6.50%                  n/a  n/a
+            -Miller assumes chairman’s position on March 8, 1978-         
+01/09/78     6.75%  Tightening      0.25%     6.50%                  n/a  n/a
+10/26/77     6.50%        None       None     6.00%                  n/a  n/a
+10/15/77     6.50%  Tightening      0.25%     5.75%                  n/a  n/a
+09/20/77     6.25%  Tightening      0.12%     5.75%                  n/a  n/a
+09/15/77     6.13%  Tightening      0.13%     5.75%                  n/a  n/a
+08/31/77     6.00%        None       None     5.75%                  n/a  n/a
+08/14/77     6.00%  Tightening      0.12%     5.25%                  n/a  n/a
+12/76-8/77   5.88%  Tightening      1.13%     5.25%                  n/a  n/a
+11/26/76     4.75%      Easing     -0.13%     5.25%                  n/a  n/a
+11/22/76     4.88%      Easing     -0.12%     5.25%                  n/a  n/a
+10/13/76     5.00%      Easing     -0.13%     5.50%                  n/a  n/a
+7/76-10/76   5.13%      Easing     -0.37%     5.50%                  n/a  n/a
+05/01/76     5.50%  Tightening      0.62%     5.50%                  n/a  n/a
+04/21/76     4.88%  Tightening      0.13%     5.50%                  n/a  n/a
+01/19/76     4.75%        None       None     5.50%                  n/a  n/a
+01/12/76     4.75%      Easing     -0.13%     6.00%                  n/a  n/a
+10/75-1/76   4.88%      Easing     -1.62%     6.00%                  n/a  n/a
+6/75-9/75    6.50%  Tightening      1.25%     6.00%                  n/a  n/a
+06/01/75     5.25%        None       None     6.00%                  n/a  n/a
+05/16/75     5.25%        None       None     6.00%                  n/a  n/a
+05/01/75     5.25%        None       None     6.25%                  n/a  n/a
+04/30/75     5.25%      Easing     -0.25%     6.25%                  n/a  n/a
+03/21/75     5.50%      Easing     -0.25%     6.25%                  n/a  n/a
+03/10/75     5.75%      Easing     -0.25%     6.25%                  n/a  n/a
+02/26/75     6.00%      Easing     -0.25%     6.75%                  n/a  n/a
+02/06/75     6.25%      Easing     -0.25%     6.75%                  n/a  n/a
+02/04/75     6.50%      Easing     -0.50%     7.25%                  n/a  n/a
+01/16/75     7.00%      Easing     -0.25%     7.25%                  n/a  n/a
+01/10/75     7.25%      Easing     -0.75%     7.25%                  n/a  n/a
+12/20/74     8.00%      Easing     -0.25%     7.75%                  n/a  n/a
+12/15/74     8.25%      Easing     -0.75%     7.75%                  n/a  n/a
+12/09/74     9.00%      Easing     -0.25%     7.75%                  n/a  n/a
+11/26/74     9.25%        None       None     8.00%                  n/a  n/a
+7/74-11/74   9.25%      Easing     -3.75%     8.00%                  n/a  n/a
+5/74-7/74   13.00%  Tightening      1.25%     8.00%                  n/a  n/a
+04/25/74    10.75%  Tightening      0.75%     8.00%                  n/a  n/a
+3/74-4/74   10.00%  Tightening      1.00%     7.50%                  n/a  n/a
+9/73-2/74    9.00%      Easing     -2.00%     7.50%                  n/a  n/a
+08/30/73    11.00%  Tightening      0.50%     7.50%                  n/a  n/a
+08/14/73    10.50%        None       None     7.50%                  n/a  n/a
+07/27/73    10.50%  Tightening      0.25%     7.00%                  n/a  n/a
+07/15/73    10.25%  Tightening      0.75%     7.00%                  n/a  n/a
+07/06/73     9.50%  Tightening      0.25%     7.00%                  n/a  n/a
+07/02/73     9.25%  Tightening      0.75%     7.00%                  n/a  n/a
+06/11/73     8.50%  Tightening      0.25%     6.50%                  n/a  n/a
+05/31/73     8.25%  Tightening      0.37%     6.00%                  n/a  n/a
+05/18/73     7.88%  Tightening      0.38%     6.00%                  n/a  n/a
+05/11/73     7.50%        None      0.25%     6.00%                  n/a  n/a
+05/04/73     7.50%  Tightening      0.25%     5.75%                  n/a  n/a
+03/29/73     7.25%  Tightening      0.25%     5.50%                  n/a  n/a
+03/14/73     7.00%  Tightening      0.25%     5.50%                  n/a  n/a
+03/03/73     6.75%        None       None     5.50%                  n/a  n/a
+02/26/73     6.75%  Tightening      0.25%     5.50%                  n/a  n/a
+02/12/73     6.50%  Tightening      0.12%     5.00%                  n/a  n/a
+01/27/73     6.38%  Tightening      0.38%     5.00%                  n/a  n/a
+01/19/73     6.00%  Tightening      0.12%     5.00%                  n/a  n/a
+01/15/73     5.88%  Tightening      0.13%     5.00%                  n/a  n/a
+01/04/73     5.75%  Tightening      0.25%     4.50%                  n/a  n/a
+3/72-12/72   5.50%  Tightening      2.00%     4.50%                  n/a  n/a
+12/71-2/72   3.50%      Easing     -0.50%     4.50%                  n/a  n/a
+12/17/71     4.00%      Easing     -0.13%     4.50%                  n/a  n/a
+12/16/71     4.13%      Easing     -0.43%     4.50%                  n/a  n/a
+11/29/71     4.56%      Easing     -0.19%     4.75%                  n/a  n/a
+11/12/71     4.75%      Easing     -0.25%     4.75%                  n/a  n/a
+11/07/71     5.00%      Easing     -0.13%     4.75%                  n/a  n/a
+9/71-10/71   5.13%      Easing     -0.62%     5.00%                  n/a  n/a
+08/15/71     5.75%  Tightening      0.25%     5.00%                  n/a  n/a
+07/16/71     5.50%  Tightening      0.25%     5.00%                  n/a  n/a
+07/02/71     5.25%      Easing     -0.25%     4.75%                  n/a  n/a
+3/71-7/71    5.50%  Tightening      2.00%     4.75%                  n/a  n/a
+02/19/71     3.50%      Easing     -0.25%     4.75%                  n/a  n/a
+02/04/71     3.75%      Easing     -0.25%     5.00%                  n/a  n/a
+01/22/71     4.00%      Easing     -0.25%     5.00%                  n/a  n/a
+01/12/71     4.25%      Easing     -0.25%     5.25%                  n/a  n/a
+01/08/71     4.50%      Easing     -0.25%     4.50%                  n/a  n/a
+            -------Average Monthly Federal Funds and Discount Rates-------
+12/01/70     4.90%         n/a     -0.70%     5.52%                  n/a  n/a
+11/01/70     5.60%         n/a     -0.60%     5.85%                  n/a  n/a
+10/01/70     6.20%         n/a     -0.09%     6.00%                  n/a  n/a
+09/01/70     6.29%         n/a     -0.32%     6.00%                  n/a  n/a
+08/01/70     6.61%         n/a     -0.60%     6.00%                  n/a  n/a
+07/01/70     7.21%         n/a     -0.39%     6.00%                  n/a  n/a
+06/01/70     7.60%         n/a     -0.34%     6.00%                  n/a  n/a
+05/01/70     7.94%         n/a     -0.16%     6.00%                  n/a  n/a
+04/01/70     8.10%         n/a      0.34%     6.00%                  n/a  n/a
+03/01/70     7.76%         n/a     -1.22%     6.00%                  n/a  n/a
+02/01/70     8.98%         n/a      0.00%     6.00%                  n/a  n/a
+            -Burns assumes chairman’s position on Feb. 1, 1970-         
+01/01/70     8.98%         n/a      0.01%     6.00%                  n/a  n/a
+12/01/69     8.97%         n/a      0.12%     6.00%                  n/a  n/a
+11/01/69     8.85%         n/a     -0.15%     6.00%                  n/a  n/a
+10/01/69     9.00%         n/a     -0.15%     6.00%                  n/a  n/a
+09/01/69     9.15%         n/a     -0.04%     6.00%                  n/a  n/a
+08/01/69     9.19%         n/a      0.58%     6.00%                  n/a  n/a
+07/01/69     8.61%         n/a     -0.29%     6.00%                  n/a  n/a
+06/01/69     8.90%         n/a      0.23%     6.00%                  n/a  n/a
+05/01/69     8.67%         n/a      1.26%     6.00%                  n/a  n/a
+04/01/69     7.41%         n/a      0.62%     5.95%                  n/a  n/a
+03/01/69     6.79%         n/a      0.18%     5.50%                  n/a  n/a
+02/01/69     6.61%         n/a      0.31%     5.50%                  n/a  n/a
+01/01/69     6.30%         n/a      0.28%     5.50%                  n/a  n/a
+12/01/68     6.02%         n/a      0.20%     5.36%                  n/a  n/a
+11/01/68     5.82%         n/a     -0.09%     5.25%                  n/a  n/a
+10/01/68     5.91%         n/a      0.13%     5.25%                  n/a  n/a
+09/01/68     5.78%         n/a     -0.25%     5.25%                  n/a  n/a
+08/01/68     6.03%         n/a      0.01%     5.48%                  n/a  n/a
+07/01/68     6.02%         n/a     -0.05%     5.50%                  n/a  n/a
+06/01/68     6.07%         n/a     -0.04%     5.50%                  n/a  n/a
+05/01/68     6.11%         n/a      0.35%     5.50%                  n/a  n/a
+04/01/68     5.76%         n/a      0.71%     5.20%                  n/a  n/a
+03/01/68     5.05%         n/a      0.34%     4.66%                  n/a  n/a
+02/01/68     4.71%         n/a      0.11%     4.50%                  n/a  n/a
+01/01/68     4.60%         n/a      0.09%     4.50%                  n/a  n/a
+12/01/67     4.51%         n/a      0.38%     4.50%                  n/a  n/a
+11/01/67     4.13%         n/a      0.25%     4.18%                  n/a  n/a
+10/01/67     3.88%         n/a     -0.11%     4.00%                  n/a  n/a
+09/01/67     3.99%         n/a      0.09%     4.00%                  n/a  n/a
+08/01/67     3.90%         n/a      0.11%     4.00%                  n/a  n/a
+07/01/67     3.79%         n/a     -0.19%     4.00%                  n/a  n/a
+06/01/67     3.98%         n/a      0.04%     4.00%                  n/a  n/a
+05/01/67     3.94%         n/a     -0.11%     4.00%                  n/a  n/a
+04/01/67     4.05%         n/a     -0.48%     4.10%                  n/a  n/a
+03/01/67     4.53%         n/a     -0.47%     4.50%                  n/a  n/a
+02/01/67     5.00%         n/a      0.06%     4.50%                  n/a  n/a
+01/01/67     4.94%         n/a     -0.46%     4.50%                  n/a  n/a
+12/01/66     5.40%         n/a     -0.36%     4.50%                  n/a  n/a
+11/01/66     5.76%         n/a      0.23%     4.50%                  n/a  n/a
+10/01/66     5.53%         n/a      0.13%     4.50%                  n/a  n/a
+09/01/66     5.40%         n/a     -0.13%     4.50%                  n/a  n/a
+08/01/66     5.53%         n/a      0.23%     4.50%                  n/a  n/a
+07/01/66     5.30%         n/a      0.13%     4.50%                  n/a  n/a
+06/01/66     5.17%         n/a      0.27%     4.50%                  n/a  n/a
+05/01/66     4.90%         n/a      0.23%     4.50%                  n/a  n/a
+04/01/66     4.67%         n/a      0.02%     4.50%                  n/a  n/a
+03/01/66     4.65%         n/a      0.05%     4.50%                  n/a  n/a
+02/01/66     4.60%         n/a      0.18%     4.50%                  n/a  n/a
+01/01/66     4.42%         n/a      0.10%     4.50%                  n/a  n/a
+12/01/65     4.32%         n/a      0.22%     4.42%                  n/a  n/a
+11/01/65     4.10%         n/a      0.02%     4.00%                  n/a  n/a
+10/01/65     4.08%         n/a      0.07%     4.00%                  n/a  n/a
+09/01/65     4.01%         n/a     -0.11%     4.00%                  n/a  n/a
+08/01/65     4.12%         n/a      0.03%     4.00%                  n/a  n/a
+07/01/65     4.09%         n/a      0.05%     4.00%                  n/a  n/a
+06/01/65     4.04%         n/a     -0.06%     4.00%                  n/a  n/a
+05/01/65     4.10%         n/a      0.01%     4.00%                  n/a  n/a
+04/01/65     4.09%         n/a      0.05%     4.00%                  n/a  n/a
+03/01/65     4.04%         n/a      0.06%     4.00%                  n/a  n/a
+02/01/65     3.98%         n/a      0.08%     4.00%                  n/a  n/a
+01/01/65     3.90%         n/a      0.05%     4.00%                  n/a  n/a
+12/01/64     3.85%         n/a      0.33%     4.00%                  n/a  n/a
+11/01/64     3.52%         n/a      0.16%     3.62%                  n/a  n/a
+10/01/64     3.36%         n/a     -0.09%     3.50%                  n/a  n/a
+09/01/64     3.45%         n/a     -0.05%     3.50%                  n/a  n/a
+08/01/64     3.50%         n/a      0.08%     3.50%                  n/a  n/a
+07/01/64     3.42%         n/a     -0.08%     3.50%                  n/a  n/a
+06/01/64     3.50%         n/a      0.00%     3.50%                  n/a  n/a
+05/01/64     3.50%         n/a      0.03%     3.50%                  n/a  n/a
+04/01/64     3.47%         n/a      0.04%     3.50%                  n/a  n/a
+03/01/64     3.43%         n/a     -0.05%     3.50%                  n/a  n/a
+02/01/64     3.48%         n/a      0.00%     3.50%                  n/a  n/a
+01/01/64     3.48%         n/a      0.10%     3.50%                  n/a  n/a
+12/01/63     3.38%         n/a     -0.10%     3.50%                  n/a  n/a
+11/01/63     3.48%         n/a     -0.02%     3.50%                  n/a  n/a
+10/01/63     3.50%         n/a      0.02%     3.50%                  n/a  n/a
+09/01/63     3.48%         n/a     -0.01%     3.50%                  n/a  n/a
+08/01/63     3.49%         n/a      0.47%     3.50%                  n/a  n/a
+07/01/63     3.02%         n/a      0.03%     3.24%                  n/a  n/a
+06/01/63     2.99%         n/a     -0.01%     3.00%                  n/a  n/a
+05/01/63     3.00%         n/a      0.10%     3.00%                  n/a  n/a
+04/01/63     2.90%         n/a     -0.08%     3.00%                  n/a  n/a
+03/01/63     2.98%         n/a     -0.02%     3.00%                  n/a  n/a
+02/01/63     3.00%         n/a      0.08%     3.00%                  n/a  n/a
+01/01/63     2.92%         n/a     -0.01%     3.00%                  n/a  n/a
+12/01/62     2.93%         n/a     -0.01%     3.00%                  n/a  n/a
+11/01/62     2.94%         n/a      0.04%     3.00%                  n/a  n/a
+10/01/62     2.90%         n/a      0.00%     3.00%                  n/a  n/a
+09/01/62     2.90%         n/a     -0.03%     3.00%                  n/a  n/a
+08/01/62     2.93%         n/a      0.22%     3.00%                  n/a  n/a
+07/01/62     2.71%         n/a      0.03%     3.00%                  n/a  n/a
+06/01/62     2.68%         n/a      0.32%     3.00%                  n/a  n/a
+05/01/62     2.36%         n/a     -0.42%     3.00%                  n/a  n/a
+04/01/62     2.78%         n/a     -0.07%     3.00%                  n/a  n/a
+03/01/62     2.85%         n/a      0.48%     3.00%                  n/a  n/a
+02/01/62     2.37%         n/a      0.22%     3.00%                  n/a  n/a
+01/01/62     2.15%         n/a     -0.18%     3.00%                  n/a  n/a
+12/01/61     2.33%         n/a     -0.28%     3.00%                  n/a  n/a
+11/01/61     2.61%         n/a      0.35%     3.00%                  n/a  n/a
+10/01/61     2.26%         n/a      0.38%     3.00%                  n/a  n/a
+09/01/61     1.88%         n/a     -0.12%     3.00%                  n/a  n/a
+08/01/61     2.00%         n/a      0.83%     3.00%                  n/a  n/a
+07/01/61     1.17%         n/a     -0.56%     3.00%                  n/a  n/a
+06/01/61     1.73%         n/a     -0.25%     3.00%                  n/a  n/a
+05/01/61     1.98%         n/a      0.49%     3.00%                  n/a  n/a
+04/01/61     1.49%         n/a     -0.53%     3.00%                  n/a  n/a
+03/01/61     2.02%         n/a     -0.52%     3.00%                  n/a  n/a
+02/01/61     2.54%         n/a      1.00%     3.00%                  n/a  n/a
+01/01/61     1.54%         n/a     -0.44%     3.00%                  n/a  n/a
+12/01/60     1.98%         n/a     -0.46%     3.00%                  n/a  n/a
+11/01/60     2.44%         n/a     -0.03%     3.00%                  n/a  n/a
+10/01/60     2.47%         n/a     -0.13%     3.00%                  n/a  n/a
+09/01/60     2.60%         n/a     -0.38%     3.00%                  n/a  n/a
+08/01/60     2.98%         n/a     -0.25%     3.18%                  n/a  n/a
+07/01/60     3.23%         n/a     -0.09%     3.50%                  n/a  n/a
+06/01/60     3.32%         n/a     -0.53%     3.65%                  n/a  n/a
+05/01/60     3.85%         n/a     -0.07%     4.00%                  n/a  n/a
+04/01/60     3.92%         n/a      0.08%     4.00%                  n/a  n/a
+03/01/60     3.84%         n/a     -0.13%     4.00%                  n/a  n/a
+02/01/60     3.97%         n/a     -0.02%     4.00%                  n/a  n/a
+01/01/60     3.99%         n/a      0.00%     4.00%                  n/a  n/a
+12/01/59     3.99%         n/a     -0.01%     4.00%                  n/a  n/a
+11/01/59     4.00%         n/a      0.02%     4.00%                  n/a  n/a
+10/01/59     3.98%         n/a      0.22%     4.00%                  n/a  n/a
+09/01/59     3.76%         n/a      0.26%     3.83%                  n/a  n/a
+08/01/59     3.50%         n/a      0.03%     3.50%                  n/a  n/a
+07/01/59     3.47%         n/a      0.08%     3.50%                  n/a  n/a
+06/01/59     3.39%         n/a      0.49%     3.50%                  n/a  n/a
+05/01/59     2.90%         n/a     -0.06%     3.05%                  n/a  n/a
+04/01/59     2.96%         n/a      0.16%     3.00%                  n/a  n/a
+03/01/59     2.80%         n/a      0.37%     2.92%                  n/a  n/a
+02/01/59     2.43%         n/a     -0.05%     2.50%                  n/a  n/a
+01/01/59     2.48%         n/a      0.06%     2.50%                  n/a  n/a
+12/01/58     2.42%         n/a      0.15%     2.50%                  n/a  n/a
+11/01/58     2.27%         n/a      0.47%     2.40%                  n/a  n/a
+10/01/58     1.80%         n/a      0.04%     2.00%                  n/a  n/a
+09/01/58     1.76%         n/a      0.23%     1.91%                  n/a  n/a
+08/01/58     1.53%         n/a      0.85%     1.75%                  n/a  n/a
+07/01/58     0.68%         n/a     -0.25%     1.75%                  n/a  n/a
+06/01/58     0.93%         n/a      0.30%     1.75%                  n/a  n/a
+05/01/58     0.63%         n/a     -0.63%     1.75%                  n/a  n/a
+04/01/58     1.26%         n/a      0.06%     2.03%                  n/a  n/a
+03/01/58     1.20%         n/a     -0.47%     2.35%                  n/a  n/a
+02/01/58     1.67%         n/a     -1.05%     2.75%                  n/a  n/a
+01/01/58     2.72%         n/a     -0.26%     2.94%                  n/a  n/a
+12/01/57     2.98%         n/a     -0.30%     3.00%                  n/a  n/a
+11/01/57     3.28%         n/a     -0.22%     3.23%                  n/a  n/a
+10/01/57     3.50%         n/a      0.03%     3.50%                  n/a  n/a
+09/01/57     3.47%         n/a      0.23%     3.50%                  n/a  n/a
+08/01/57     3.24%         n/a      0.25%     3.15%                  n/a  n/a
+07/01/57     2.99%         n/a     -0.01%     3.00%                  n/a  n/a
+06/01/57     3.00%         n/a      0.00%     3.00%                  n/a  n/a
+05/01/57     3.00%         n/a      0.00%     3.00%                  n/a  n/a
+04/01/57     3.00%         n/a      0.04%     3.00%                  n/a  n/a
+03/01/57     2.96%         n/a     -0.04%     3.00%                  n/a  n/a
+02/01/57     3.00%         n/a      0.16%     3.00%                  n/a  n/a
+01/01/57     2.84%         n/a     -0.10%     3.00%                  n/a  n/a
+12/01/56     2.94%         n/a      0.06%     3.00%                  n/a  n/a
+11/01/56     2.88%         n/a     -0.08%     3.00%                  n/a  n/a
+10/01/56     2.96%         n/a      0.01%     3.00%                  n/a  n/a
+09/01/56     2.95%         n/a      0.22%     3.00%                  n/a  n/a
+08/01/56     2.73%         n/a     -0.02%     2.81%                  n/a  n/a
+07/01/56     2.75%         n/a      0.04%     2.75%                  n/a  n/a
+06/01/56     2.71%         n/a     -0.04%     2.75%                  n/a  n/a
+05/01/56     2.75%         n/a      0.13%     2.75%                  n/a  n/a
+04/01/56     2.62%         n/a      0.12%     2.65%                  n/a  n/a
+03/01/56     2.50%         n/a      0.00%     2.50%                  n/a  n/a
+02/01/56     2.50%         n/a      0.05%     2.50%                  n/a  n/a
+01/01/56     2.45%         n/a     -0.03%     2.50%                  n/a  n/a
+12/01/55     2.48%         n/a      0.13%     2.50%                  n/a  n/a
+11/01/55     2.35%         n/a      0.11%     2.36%                  n/a  n/a
+10/01/55     2.24%         n/a      0.06%     2.25%                  n/a  n/a
+09/01/55     2.18%         n/a      0.22%     2.18%                  n/a  n/a
+08/01/55     1.96%         n/a      0.28%     1.97%                  n/a  n/a
+07/01/55     1.68%         n/a      0.04%     1.75%                  n/a  n/a
+06/01/55     1.64%         n/a      0.21%     1.75%                  n/a  n/a
+05/01/55     1.43%         n/a      0.00%     1.75%                  n/a  n/a
+04/01/55     1.43%         n/a      0.08%     1.63%                  n/a  n/a
+03/01/55     1.35%         n/a      0.06%     1.50%                  n/a  n/a
+02/01/55     1.29%         n/a     -0.10%     1.50%                  n/a  n/a
+01/01/55     1.39%         n/a      0.11%     1.50%                  n/a  n/a
+12/01/54     1.28%         n/a      0.45%     1.50%                  n/a  n/a
+11/01/54     0.83%         n/a     -0.02%     1.50%                  n/a  n/a
+10/01/54     0.85%         n/a     -0.21%     1.50%                  n/a  n/a
+09/01/54     1.06%         n/a     -0.16%     1.50%                  n/a  n/a
+08/01/54     1.22%         n/a      0.42%     1.50%                  n/a  n/a
+            ---------------------Discount Rate Changes--------------------
+07/01/54     0.80%         n/a        n/a     1.50%                  n/a  n/a
+04/16/54       n/a         n/a        n/a     1.50%                  n/a  n/a
+02/05/54       n/a         n/a        n/a     1.75%                  n/a  n/a
+01/16/53       n/a         n/a        n/a     2.00%                  n/a  n/a
+            -Martin assumes chairman’s position on April 2, 1951-         
+08/21/50       n/a         n/a        n/a     1.75%                  n/a  n/a
+08/13/48       n/a         n/a        n/a     1.50%                  n/a  n/a
+            -McCabe assumes chairman’s position on April 15, 1948-         
+01/12/48       n/a         n/a        n/a     1.25%                  n/a  n/a
+04/25/46       n/a         n/a        n/a     1.00%                  n/a  n/a
+10/30/42       n/a         n/a        n/a     0.50%                  n/a  n/a
+08/27/37       n/a         n/a        n/a     1.00%                  n/a  n/a
+            -Eccles assumes chairman’s position on Nov. 15, 1934-         
+02/02/34       n/a         n/a        n/a     1.50%                  n/a  n/a
+10/20/33       n/a         n/a        n/a     2.00%                  n/a  n/a
+05/26/33       n/a         n/a        n/a     2.50%                  n/a  n/a
+            -Black assumes chairman’s position on May 19, 1933-         
+04/07/33       n/a         n/a        n/a     3.00%                  n/a  n/a
+03/03/33       n/a         n/a        n/a     3.50%                  n/a  n/a
+06/24/32       n/a         n/a        n/a     2.50%                  n/a  n/a
+02/26/32       n/a         n/a        n/a     3.00%                  n/a  n/a
+10/16/31       n/a         n/a        n/a     3.50%                  n/a  n/a
+10/09/31       n/a         n/a        n/a     2.50%                  n/a  n/a
+05/08/31       n/a         n/a        n/a     1.50%                  n/a  n/a
+12/24/30       n/a         n/a        n/a     2.00%                  n/a  n/a
+            -Meyer assumes chairman’s position on Sept. 16, 1930-         
+06/20/30       n/a         n/a        n/a     2.50%                  n/a  n/a
+05/02/30       n/a         n/a        n/a     3.00%                  n/a  n/a
+03/14/30       n/a         n/a        n/a     3.50%                  n/a  n/a
+02/07/30       n/a         n/a        n/a     4.00%                  n/a  n/a
+11/15/29       n/a         n/a        n/a     4.50%                  n/a  n/a
+11/01/29       n/a         n/a        n/a     5.00%                  n/a  n/a
+08/09/29       n/a         n/a        n/a     6.00%                  n/a  n/a
+07/13/28       n/a         n/a        n/a     5.00%                  n/a  n/a
+05/18/28       n/a         n/a        n/a     4.50%                  n/a  n/a
+02/03/28       n/a         n/a        n/a     4.00%                  n/a  n/a
+            -Young assumes chairman’s position on Oct. 4, 1927-         
+08/05/27       n/a         n/a        n/a     3.50%                  n/a  n/a
+08/13/26       n/a         n/a        n/a     4.00%                  n/a  n/a
+04/23/26       n/a         n/a        n/a     3.50%                  n/a  n/a
+01/08/26       n/a         n/a        n/a     4.00%                  n/a  n/a
+02/27/25       n/a         n/a        n/a     3.50%                  n/a  n/a
+08/08/24       n/a         n/a        n/a     3.00%                  n/a  n/a
+06/12/24       n/a         n/a        n/a     3.50%                  n/a  n/a
+05/01/24       n/a         n/a        n/a     4.00%                  n/a  n/a
+            -Crissinger assumes chairman’s position on May 1, 1923-         
+02/23/23       n/a         n/a        n/a     4.50%                  n/a  n/a
+06/22/22       n/a         n/a        n/a     4.00%                  n/a  n/a
+11/03/21       n/a         n/a        n/a     4.50%                  n/a  n/a
+09/22/21       n/a         n/a        n/a     5.00%                  n/a  n/a
+07/21/21       n/a         n/a        n/a     5.50%                  n/a  n/a
+06/16/21       n/a         n/a        n/a     6.00%                  n/a  n/a
+05/05/21       n/a         n/a        n/a     6.50%                  n/a  n/a
+06/01/20       n/a         n/a        n/a     7.00%                  n/a  n/a
+01/23/20       n/a         n/a        n/a     6.00%                  n/a  n/a
+11/03/19       n/a         n/a        n/a     4.75%                  n/a  n/a
+04/06/18       n/a         n/a        n/a     4.00%                  n/a  n/a
+12/21/17       n/a         n/a        n/a     3.50%                  n/a  n/a
+09/26/16       n/a         n/a        n/a     3.00%                  n/a  n/a
+            -Harding assumes chairman’s position on Aug. 10, 1916-         
+02/18/15       n/a         n/a        n/a     4.00%                  n/a  n/a
+02/03/15       n/a         n/a        n/a     4.50%                  n/a  n/a
+12/23/14       n/a         n/a        n/a     5.00%                  n/a  n/a
+12/18/14       n/a         n/a        n/a     5.50%                  n/a  n/a
+11/16/14       n/a         n/a        n/a     6.00%                  n/a  n/a
+            -Hamlin assumes chairman’s position on Aug. 10, 1914-         
+
