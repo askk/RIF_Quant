@@ -1,0 +1,4 @@
+I will be creating two versions of all of the research which I highly recommend for anyone 
+that is interested in getting their programming skills down in multiple languages. 
+I am working on parsing the rest of the data so that I can show some linear and multiple 
+variate models for the fomc meetings and the TY note. 
